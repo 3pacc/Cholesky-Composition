@@ -1,4 +1,4 @@
-# Méthode de Cholesky en Maple
+# Méthode de Cholesky en Maple 
 
 Ce programme Maple illustre l'implémentation de la méthode de Cholesky pour la décomposition de matrices définies positives.
 
@@ -9,7 +9,7 @@ La décomposition de Cholesky est une technique efficace pour factoriser une mat
 ## Prérequis
 
 - [Maple](https://www.maplesoft.com/)
-
+- 
 ## Utilisation
 
 1. Ouvrez le fichier Maple dans l'environnement Maple.
