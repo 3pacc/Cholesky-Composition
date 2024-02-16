@@ -1,6 +1,5 @@
 # Méthode de Cholesky en Maple 
 
-
 Ce programme Maple illustre l'implémentation de la méthode de Cholesky pour la décomposition de matrices définies positives.
 
 ## Introduction
